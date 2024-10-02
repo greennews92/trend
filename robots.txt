@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://greennews92.github.io/trend/sitemap_index.xml
